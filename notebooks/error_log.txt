@@ -1,0 +1,4 @@
+Error processing data/fake_or_real_dataset/for-norm/for-norm/training/real/file11064.wav_16k.wav_norm.wav_mono.wav_silence.wav: can't extend empty axis 0 using modes other than 'constant' or 'empty'
+Error processing data/fake_or_real_dataset/for-norm/for-norm/training/real/file15440.wav_16k.wav_norm.wav_mono.wav_silence.wav: can't extend empty axis 0 using modes other than 'constant' or 'empty'
+Error processing data/fake_or_real_dataset/for-norm/for-norm/training/real/file11064.wav_16k.wav_norm.wav_mono.wav_silence.wav: can't extend empty axis 0 using modes other than 'constant' or 'empty'
+Error processing data/fake_or_real_dataset/for-norm/for-norm/training/real/file15440.wav_16k.wav_norm.wav_mono.wav_silence.wav: can't extend empty axis 0 using modes other than 'constant' or 'empty'
