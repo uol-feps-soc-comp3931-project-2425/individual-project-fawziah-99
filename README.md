@@ -2,11 +2,11 @@
 
 ## Project Structure
 
-- `Processed_Features/` – Contains the extracted audio features as CSV files.
-- `human_vs_ai_samples/` – Audio samples used in the human-vs-AI comparison study.
-- `saved_models/` – Trained machine learning models saved for evaluation.
-- `results/` – Final evaluation metrics and model predictions.
-- `notebooks/` – Contains all main Jupyter notebooks used in the project.
+- `Processed_Features` – Contains the extracted audio features as CSV files.
+- `human_vs_ai_samples` – Audio samples used in the human-vs-AI comparison study.
+- `saved_models` – Trained machine learning models saved for evaluation.
+- `results` – Final evaluation metrics and model predictions.
+- `notebooks` – Contains all main Jupyter notebooks used in the project.
 
 
 ## Main Notebooks
