@@ -24,13 +24,11 @@
 This project uses two datasets:
 
 1. **For-Norm Dataset** – A dataset used for training, validation, and internal testing.
-
-Availabe from: 
+   Availabe from: 
 https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
 
-2. **In-the-Wild Dataset** – A dataset used for external evaluation of model generalization.
-
-Available from:
+3. **In-the-Wild Dataset** – A dataset used for external evaluation of model generalization.
+   Available from:
 https://www.kaggle.com/datasets/abdallamohamed312/in-the-wild-dataset
 
 **Note:** In the code, the *In-the-Wild* dataset is referred to as `release_in_the_wild`, which reflects the folder name used when downloaded via the Kaggle API.
